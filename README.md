@@ -27,7 +27,7 @@ This project is for **personal learning and experimentation**, containing implem
 **Run**
 
 ```
-$ cd PyTorch-VAE
+$ cd VAE-and-its-variants
 $ python run.py -c configs/<config-file-name.yaml>
 ```
 
