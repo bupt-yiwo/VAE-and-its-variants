@@ -58,5 +58,5 @@ $ tensorboard --logdir .
 [vqvae_code]: https://github.com/AntixK/PyTorch-VAE/blob/master/models/vq_vae.py
 [vae_config]: https://github.com/AntixK/PyTorch-VAE/blob/master/configs/vae.yaml
 [vqvae_config]: https://github.com/AntixK/PyTorch-VAE/blob/master/configs/vq_vae.yaml
-[1]: https://github.com/AntixK/PyTorch-VAE/blob/master/assets/Vanilla%20VAE_25.png
+[1]: images/recons_VQ_VAE_Epoch_4.png
 [2]: https://github.com/AntixK/PyTorch-VAE/blob/master/assets/recons_Vanilla%20VAE_25.png
