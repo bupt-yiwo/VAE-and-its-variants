@@ -5,7 +5,7 @@
 
 
 
-This project is for **personal learning and experimentation**, containing implementations of **VAE (Variational Autoencoder)** and its various **variants**, such as β-VAE, VQ-VAE, and more.
+This project is for **personal learning and experimentation**, containing implementations of **VAE (Variational Autoencoder)** and its various **variants**, such as DVAE, VQ-VAE, and more.
 
 > 🔗 The code is primarily adapted from [AntixK's PyTorch-VAE repository](https://github.com/AntixK/PyTorch-VAE/tree/master).
 >
